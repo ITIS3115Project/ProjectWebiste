@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+#splashScreen img{
+	margin:20px auto;	
+}
+
+#splashImage{
+	position:absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background-color:transparent;
+	background-repeat:no-repeat;
+	text-align:center;	
+}
+
